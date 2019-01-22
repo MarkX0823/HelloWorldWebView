@@ -13,9 +13,11 @@
 .externalNativeBuild
 
 /.idea
-Gemfile
+#Gemfile
 Gemfile.lock
-/fastlane
+/fastlane/Appfile_bak
+/fastlane/Fastfile_bak
+/fastlane/report.xml
 /app/build
 /app/release
 
