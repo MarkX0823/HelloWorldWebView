@@ -14,7 +14,7 @@ public class MyMathTest {
         // arrange
         int first = 1;
         int second = 2;
-        int expect = 4;
+        int expect = 3;
         MyMath myMath = new MyMath();
 
         // act
